@@ -168,7 +168,7 @@ function hide_all(){
 }
 
 function Timer() {
-    var eT = new Date("16 July 2021 17:00:00 GMT+05:30");
+    var eT = new Date("16 July 2021 10:00:00 GMT+05:30");
     eT = (Date.parse(eT) / 1000);
 
     var nw = new Date();
